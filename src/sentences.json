@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "sentence": "[акула]",
+    "sentence": "акула",
     "target": "shark",
     "hint": "Begins with 'sh'",
     "translation": "-",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "sentence": "[акушерка]",
+    "sentence": "акушерка",
     "target": "midwife",
     "hint": "Begins with 'm'",
     "translation": "-",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "sentence": "[баклажан]",
+    "sentence": "баклажан",
     "target": "aubergine",
     "hint": "Begins with 'a'",
     "translation": "-",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "sentence": "[барахло]",
+    "sentence": "барахло",
     "target": "junk",
     "hint": "Begins with 'j'",
     "translation": "-",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "sentence": "[розмарин]",
+    "sentence": "розмарин",
     "target": "rosemary",
     "hint": "Begins with 'r'",
     "translation": "-",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "sentence": "[барсук]",
+    "sentence": "барсук",
     "target": "badger",
     "hint": "Begins with 'ba'",
     "translation": "-",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "sentence": "[басня]",
+    "sentence": "басня",
     "target": "fable",
     "hint": "Begins with 'f'",
     "translation": "-",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "sentence": "[капюшон]",
+    "sentence": "капюшон",
     "target": "hood",
     "hint": "Begins with 'h'",
     "translation": "-",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "sentence": "[толстовка]",
+    "sentence": "толстовка",
     "target": "hoodie",
     "hint": "Begins with 'hoo'",
     "translation": "-",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "sentence": "[бедро]",
+    "sentence": "бедро",
     "target": "hip",
     "hint": "Begins with 'h'",
     "translation": "-",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "sentence": "[неопрятный]",
+    "sentence": "неопрятный",
     "target": "slovenly",
     "hint": "Begins with 's'",
     "translation": "-",
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "sentence": "[гладковыбритый]",
+    "sentence": "гладковыбритый",
     "target": "clean-shaven",
     "hint": "Begins with 'c'",
     "translation": "-",
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "sentence": "[подбородок]",
+    "sentence": "подбородок",
     "target": "chin",
     "hint": "Begins with 'ch'",
     "translation": "-",
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "sentence": "[бесстрашный]",
+    "sentence": "бесстрашный",
     "target": "fearless",
     "hint": "Begins with 'f'",
     "translation": "-",
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "sentence": "[безработица]",
+    "sentence": "безработица",
     "target": "unemployment",
     "hint": "Begins with 'u'",
     "translation": "-",
@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "sentence": "[безразличный]",
+    "sentence": "безразличный",
     "target": "indifferent",
     "hint": "Begins with 'i'",
     "translation": "-",
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "sentence": "[безоружный]",
+    "sentence": "безоружный",
     "target": "unarmed",
     "hint": "Begins with 'u'",
     "translation": "-",
@@ -137,7 +137,7 @@
   },
   {
     "id": 18,
-    "sentence": "[осётр]",
+    "sentence": "осётр",
     "target": "sturgeon",
     "hint": "Begins with 's'",
     "translation": "-",
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "sentence": "[логово]",
+    "sentence": "логово",
     "target": "den",
     "hint": "Begins with 'd'",
     "translation": "-",
@@ -153,7 +153,7 @@
   },
   {
     "id": 20,
-    "sentence": "[дача]",
+    "sentence": "дача",
     "target": "summer house",
     "hint": "Begins with 's'",
     "translation": "-",
@@ -161,7 +161,7 @@
   },
   {
     "id": 21,
-    "sentence": "[бессердечный]",
+    "sentence": "бессердечный",
     "target": "heartless",
     "hint": "Begins with 'h'",
     "translation": "-",
@@ -169,7 +169,7 @@
   },
   {
     "id": 22,
-    "sentence": "[беседа]",
+    "sentence": "беседа",
     "target": "conversation",
     "hint": "Begins with 'c'",
     "translation": "-",
@@ -177,7 +177,7 @@
   },
   {
     "id": 23,
-    "sentence": "[бесполезный]",
+    "sentence": "бесполезный",
     "target": "useless",
     "hint": "Begins with 'u'",
     "translation": "-",
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "sentence": "[беспомощный]",
+    "sentence": "беспомощный",
     "target": "helpless",
     "hint": "Begins with 'h'",
     "translation": "-",
@@ -193,7 +193,7 @@
   },
   {
     "id": 25,
-    "sentence": "[бинт]",
+    "sentence": "бинт",
     "target": "bandage",
     "hint": "Begins with 'ba'",
     "translation": "-",
@@ -201,7 +201,7 @@
   },
   {
     "id": 26,
-    "sentence": "[бирюзовый]",
+    "sentence": "бирюзовый",
     "target": "turquoise",
     "hint": "Begins with 't'",
     "translation": "-",
@@ -209,9 +209,9 @@
   },
   {
     "id": 27,
-    "sentence": "[берёза]",
+    "sentence": "берёза",
     "target": "silver birch",
-    "hint": "Begins with 's' and 'b'",
+    "hint": "Begins with 's'",
     "translation": "-",
     "note": "Noun, feminine. Iconic Russian tree symbol."
   }
