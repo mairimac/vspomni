@@ -1,210 +1,218 @@
 [
   {
     "id": 1,
-    "sentence": "акула",
+    "sentence": "[акула]",
     "target": "shark",
-    "hint": "Begins with 'а'",
+    "hint": "Begins with 'sh'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. High frequency; also used metaphorically for a ruthless person (акула бизнеса)."
   },
   {
     "id": 2,
-    "sentence": "акушерка",
+    "sentence": "[акушерка]",
     "target": "midwife",
-    "hint": "Begins with 'а'",
+    "hint": "Begins with 'm'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. Specific medical profession; common in healthcare contexts."
   },
   {
     "id": 3,
-    "sentence": "баклажан",
+    "sentence": "[баклажан]",
     "target": "aubergine",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'a'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Common food item; 'eggplant' in US English."
   },
   {
     "id": 4,
-    "sentence": "барахло",
+    "sentence": "[барахло]",
     "target": "junk",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'j'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, neuter. Colloquial/Informal. Used for low-quality stuff or clutter."
   },
   {
     "id": 5,
-    "sentence": "розмарин",
+    "sentence": "[розмарин]",
     "target": "rosemary",
-    "hint": "Begins with 'р'",
+    "hint": "Begins with 'r'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Culinary/botanical term."
   },
   {
     "id": 6,
-    "sentence": "барсук",
+    "sentence": "[барсук]",
     "target": "badger",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'ba'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Common forest animal."
   },
   {
     "id": 7,
-    "sentence": "басня",
+    "sentence": "[басня]",
     "target": "fable",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'f'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. Literary term; often associated with Krylov in Russian culture."
   },
   {
     "id": 8,
-    "sentence": "капюшон",
+    "sentence": "[капюшон]",
     "target": "hood",
-    "hint": "Begins with 'к'",
+    "hint": "Begins with 'h'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Refers specifically to the clothing part."
   },
   {
     "id": 9,
-    "sentence": "толстовка",
+    "sentence": "[толстовка]",
     "target": "hoodie",
-    "hint": "Begins with 'т'",
+    "hint": "Begins with 'hoo'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. Modern everyday term for a hooded sweatshirt."
   },
   {
     "id": 10,
-    "sentence": "бедро",
+    "sentence": "[бедро]",
     "target": "hip",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'h'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, neuter. Anatomical term; also means 'thigh'."
   },
   {
     "id": 11,
-    "sentence": "неопрятный",
+    "sentence": "[неопрятный]",
     "target": "slovenly",
-    "hint": "Begins with 'н'",
+    "hint": "Begins with 's'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Describes a messy or untidy appearance."
   },
   {
     "id": 12,
-    "sentence": "гладковыбритый",
+    "sentence": "[гладковыбритый]",
     "target": "clean-shaven",
-    "hint": "Begins with 'г'",
+    "hint": "Begins with 'c'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Compound word: гладко (smoothly) + выбритый (shaved)."
   },
   {
     "id": 13,
-    "sentence": "подбородок",
+    "sentence": "[подбородок]",
     "target": "chin",
-    "hint": "Begins with 'п'",
+    "hint": "Begins with 'ch'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Anatomical term; very high frequency."
   },
   {
     "id": 14,
-    "sentence": "бесстрашный",
+    "sentence": "[бесстрашный]",
     "target": "fearless",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'f'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Derived from 'без' (without) + 'страх' (fear)."
   },
   {
     "id": 15,
-    "sentence": "безработица",
+    "sentence": "[безработица]",
     "target": "unemployment",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'u'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. High frequency in news and social topics."
   },
   {
     "id": 16,
-    "sentence": "безразличный",
+    "sentence": "[безразличный]",
     "target": "indifferent",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'i'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. 'Indifferent' or 'apathetic'; very common for describing attitudes."
   },
   {
     "id": 17,
-    "sentence": "безоружный",
+    "sentence": "[безоружный]",
     "target": "unarmed",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'u'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Derived from 'без' (without) + 'оружие' (weapon)."
   },
   {
     "id": 18,
-    "sentence": "осётр",
+    "sentence": "[осётр]",
     "target": "sturgeon",
-    "hint": "Begins with 'о'",
+    "hint": "Begins with 's'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Famous Russian fish; known for black caviar."
+  },
+  {
+    "id": 19,
+    "sentence": "[логово]",
+    "target": "den",
+    "hint": "Begins with 'd'",
+    "translation": "-",
+    "note": "Noun, neuter. Can mean an animal den or a metaphorical 'lair'."
   },
   {
     "id": 20,
-    "sentence": "дача",
+    "sentence": "[дача]",
     "target": "summer house",
-    "hint": "Begins with 'д'",
+    "hint": "Begins with 's'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. Culturally significant term for a seasonal second home."
   },
   {
     "id": 21,
-    "sentence": "бессердечный",
+    "sentence": "[бессердечный]",
     "target": "heartless",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'h'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Derived from 'без' (without) + 'сердце' (heart)."
   },
   {
     "id": 22,
-    "sentence": "беседа",
+    "sentence": "[беседа]",
     "target": "conversation",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'c'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. Implies a slightly more formal or structured talk than 'разговор'."
   },
   {
     "id": 23,
-    "sentence": "бесполезный",
+    "sentence": "[бесполезный]",
     "target": "useless",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'u'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Very common; 'без' (without) + 'польза' (benefit/use)."
   },
   {
     "id": 24,
-    "sentence": "беспомощный",
+    "sentence": "[беспомощный]",
     "target": "helpless",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'h'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. 'без' (without) + 'помощь' (help)."
   },
   {
     "id": 25,
-    "sentence": "бинт",
+    "sentence": "[бинт]",
     "target": "bandage",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 'ba'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, masculine. Medical gauze/bandage."
   },
   {
     "id": 26,
-    "sentence": "бирюзовый",
+    "sentence": "[бирюзовый]",
     "target": "turquoise",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 't'",
     "translation": "-",
-    "note": "-"
+    "note": "Adjective. Common color term."
   },
   {
     "id": 27,
-    "sentence": "берёза",
+    "sentence": "[берёза]",
     "target": "silver birch",
-    "hint": "Begins with 'б'",
+    "hint": "Begins with 's' and 'b'",
     "translation": "-",
-    "note": "-"
+    "note": "Noun, feminine. Iconic Russian tree symbol."
   }
 ]
