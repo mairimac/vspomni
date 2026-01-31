@@ -1,82 +1,210 @@
 [
   {
     "id": 1,
-    "sentence": "Я хочу [попробовать] это блюдо.",
-    "target": "попробовать",
-    "hint": "to try / taste (perf.)",
-    "translation": "I want to try this dish.",
-    "note": "Perfective infinitive after 'хочу'"
+    "sentence": "акула",
+    "target": "shark",
+    "hint": "Begins with 'а'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 2,
-    "sentence": "Он [надеется] найти новую работу.",
-    "target": "надеется",
-    "hint": "to hope (impf.)",
-    "translation": "He hopes to find a new job.",
-    "note": "Reflexive verb (-ся)"
+    "sentence": "акушерка",
+    "target": "midwife",
+    "hint": "Begins with 'а'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 3,
-    "sentence": "Мы [привыкли] вставать рано утром.",
-    "target": "привыкли",
-    "hint": "to be used to (past plur.)",
-    "translation": "We are used to getting up early in the morning.",
-    "note": "Past tense used for a current state"
+    "sentence": "баклажан",
+    "target": "aubergine",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 4,
-    "sentence": "Тебе нужно [позвонить] врачу прямо сейчас.",
-    "target": "позвонить",
-    "hint": "to call (perf.)",
-    "translation": "You need to call the doctor right now.",
-    "note": "Takes the Dative case (врачу)"
+    "sentence": "барахло",
+    "target": "junk",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 5,
-    "sentence": "Она [собирается] поехать в отпуск в июле.",
-    "target": "собирается",
-    "hint": "to be going to / plan (impf.)",
-    "translation": "She plans to go on vacation in July.",
-    "note": "Reflexive verb indicating intention"
+    "sentence": "розмарин",
+    "target": "rosemary",
+    "hint": "Begins with 'р'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 6,
-    "sentence": "Вы не могли бы [объяснить] это правило ещё раз?",
-    "target": "объяснить",
-    "hint": "to explain (perf.)",
-    "translation": "Could you explain this rule one more time?",
-    "note": "Perfective used for a specific request"
+    "sentence": "барсук",
+    "target": "badger",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 7,
-    "sentence": "Я [забыл] закрыть окно перед уходом.",
-    "target": "забыл",
-    "hint": "to forget (past masc.)",
-    "translation": "I forgot to close the window before leaving.",
-    "note": "Perfective past"
+    "sentence": "басня",
+    "target": "fable",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 8,
-    "sentence": "Он [выглядит] очень уставшим сегодня.",
-    "target": "выглядит",
-    "hint": "to look / appear (impf.)",
-    "translation": "He looks very tired today.",
-    "note": "Takes the Instrumental case (уставшим)"
+    "sentence": "капюшон",
+    "target": "hood",
+    "hint": "Begins with 'к'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 9,
-    "sentence": "Нам нужно [обсудить] этот вопрос вместе.",
-    "target": "обсудить",
-    "hint": "to discuss (perf.)",
-    "translation": "We need to discuss this issue together.",
-    "note": "Perfective verb"
+    "sentence": "толстовка",
+    "target": "hoodie",
+    "hint": "Begins with 'т'",
+    "translation": "-",
+    "note": "-"
   },
   {
     "id": 10,
-    "sentence": "Они часто [смеются] над его шутками.",
-    "target": "смеются",
-    "hint": "to laugh (impf. plur.)",
-    "translation": "They often laugh at his jokes.",
-    "note": "Reflexive verb"
+    "sentence": "бедро",
+    "target": "hip",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 11,
+    "sentence": "неопрятный",
+    "target": "slovenly",
+    "hint": "Begins with 'н'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 12,
+    "sentence": "гладковыбритый",
+    "target": "clean-shaven",
+    "hint": "Begins with 'г'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 13,
+    "sentence": "подбородок",
+    "target": "chin",
+    "hint": "Begins with 'п'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 14,
+    "sentence": "бесстрашный",
+    "target": "fearless",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 15,
+    "sentence": "безработица",
+    "target": "unemployment",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 16,
+    "sentence": "безразличный",
+    "target": "indifferent",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 17,
+    "sentence": "безоружный",
+    "target": "unarmed",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 18,
+    "sentence": "осётр",
+    "target": "sturgeon",
+    "hint": "Begins with 'о'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 20,
+    "sentence": "дача",
+    "target": "summer house",
+    "hint": "Begins with 'д'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 21,
+    "sentence": "бессердечный",
+    "target": "heartless",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 22,
+    "sentence": "беседа",
+    "target": "conversation",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 23,
+    "sentence": "бесполезный",
+    "target": "useless",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 24,
+    "sentence": "беспомощный",
+    "target": "helpless",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 25,
+    "sentence": "бинт",
+    "target": "bandage",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 26,
+    "sentence": "бирюзовый",
+    "target": "turquoise",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
+  },
+  {
+    "id": 27,
+    "sentence": "берёза",
+    "target": "silver birch",
+    "hint": "Begins with 'б'",
+    "translation": "-",
+    "note": "-"
   }
 ]
