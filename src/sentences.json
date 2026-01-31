@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "sentence": "Я хочу [попробовать] это блюдо.",
+    "target": "попробовать",
+    "hint": "to try / taste (perf.)",
+    "translation": "I want to try this dish.",
+    "note": "Perfective infinitive after 'хочу'"
+  },
+  {
+    "id": 2,
+    "sentence": "Он [надеется] найти новую работу.",
+    "target": "надеется",
+    "hint": "to hope (impf.)",
+    "translation": "He hopes to find a new job.",
+    "note": "Reflexive verb (-ся)"
+  },
+  {
+    "id": 3,
+    "sentence": "Мы [привыкли] вставать рано утром.",
+    "target": "привыкли",
+    "hint": "to be used to (past plur.)",
+    "translation": "We are used to getting up early in the morning.",
+    "note": "Past tense used for a current state"
+  },
+  {
+    "id": 4,
+    "sentence": "Тебе нужно [позвонить] врачу прямо сейчас.",
+    "target": "позвонить",
+    "hint": "to call (perf.)",
+    "translation": "You need to call the doctor right now.",
+    "note": "Takes the Dative case (врачу)"
+  },
+  {
+    "id": 5,
+    "sentence": "Она [собирается] поехать в отпуск в июле.",
+    "target": "собирается",
+    "hint": "to be going to / plan (impf.)",
+    "translation": "She plans to go on vacation in July.",
+    "note": "Reflexive verb indicating intention"
+  },
+  {
+    "id": 6,
+    "sentence": "Вы не могли бы [объяснить] это правило ещё раз?",
+    "target": "объяснить",
+    "hint": "to explain (perf.)",
+    "translation": "Could you explain this rule one more time?",
+    "note": "Perfective used for a specific request"
+  },
+  {
+    "id": 7,
+    "sentence": "Я [забыл] закрыть окно перед уходом.",
+    "target": "забыл",
+    "hint": "to forget (past masc.)",
+    "translation": "I forgot to close the window before leaving.",
+    "note": "Perfective past"
+  },
+  {
+    "id": 8,
+    "sentence": "Он [выглядит] очень уставшим сегодня.",
+    "target": "выглядит",
+    "hint": "to look / appear (impf.)",
+    "translation": "He looks very tired today.",
+    "note": "Takes the Instrumental case (уставшим)"
+  },
+  {
+    "id": 9,
+    "sentence": "Нам нужно [обсудить] этот вопрос вместе.",
+    "target": "обсудить",
+    "hint": "to discuss (perf.)",
+    "translation": "We need to discuss this issue together.",
+    "note": "Perfective verb"
+  },
+  {
+    "id": 10,
+    "sentence": "Они часто [смеются] над его шутками.",
+    "target": "смеются",
+    "hint": "to laugh (impf. plur.)",
+    "translation": "They often laugh at his jokes.",
+    "note": "Reflexive verb"
+  }
+]
