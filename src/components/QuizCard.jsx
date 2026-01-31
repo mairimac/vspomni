@@ -71,7 +71,7 @@ export default function QuizCard({
               type="text"
               value={userInput}
               onChange={(e) => setUserInput(e.target.value)}
-              placeholder="Type in Russian..."
+              placeholder="Type in English..."
               className={`w-full p-3 rounded-lg bg-slate-700 border-2 outline-none transition-all 
                 ${isCorrect === true ? 'border-green-500' : isCorrect === false ? 'border-red-500' : 'border-slate-600 focus:border-cyan-500'}`}
               autoFocus
